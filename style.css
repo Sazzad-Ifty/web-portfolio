@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+}
+body{
+    font-family: 'Baloo Paaji 2', cursive;
+}
+.name-highlight{
+    color: orange;
+}
+.first-section{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding: 1%;
+}
+.first-section img{
+    width: 100%;
+}
